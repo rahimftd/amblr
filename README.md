@@ -3,7 +3,7 @@
 
 # flock ![Stablity Status](https://img.shields.io/pypi/status/Django.svg?maxAge=25920000)
 
-Flock is a way to see the city through other people's eyes. Store and view videos at your location, across time. 
+Flock is a way to see the world through other people's eyes. Store and view videos at your location, across time. 
 
 Supported operating systems are >= iOS 7.0 and >= Android 6.0
 Flock is a fork of [amblr](http://github.com/mediocreokra/amblr)
